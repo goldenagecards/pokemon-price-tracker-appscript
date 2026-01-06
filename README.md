@@ -4,6 +4,7 @@ A Google Apps Script project that pulls live Pokémon card prices from the JustT
 and builds a fast, show-friendly pricing sheet.
 
 ## Features
+- Canadian Dollar Pricing
 - Median live pricing per condition (NM / LP / MP / HP / DM)
 - Automatic 70% buy price rows (highlighted)
 - Sorted for fast buying at card shows
